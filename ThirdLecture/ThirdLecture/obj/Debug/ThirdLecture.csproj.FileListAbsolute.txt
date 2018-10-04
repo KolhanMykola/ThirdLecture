@@ -1,0 +1,7 @@
+E:\SigmaCourses\3\Third\ThirdLecture\ThirdLecture\bin\Debug\ThirdLecture.exe.config
+E:\SigmaCourses\3\Third\ThirdLecture\ThirdLecture\bin\Debug\ThirdLecture.exe
+E:\SigmaCourses\3\Third\ThirdLecture\ThirdLecture\bin\Debug\ThirdLecture.pdb
+E:\SigmaCourses\3\Third\ThirdLecture\ThirdLecture\obj\Debug\ThirdLecture.csprojAssemblyReference.cache
+E:\SigmaCourses\3\Third\ThirdLecture\ThirdLecture\obj\Debug\ThirdLecture.csproj.CoreCompileInputs.cache
+E:\SigmaCourses\3\Third\ThirdLecture\ThirdLecture\obj\Debug\ThirdLecture.exe
+E:\SigmaCourses\3\Third\ThirdLecture\ThirdLecture\obj\Debug\ThirdLecture.pdb
