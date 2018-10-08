@@ -23,14 +23,12 @@ namespace ThirdLecture4
 
         private static bool IsAllowedFirst(int math, int physics, int chemistry)
         {
-            if (math >= 65 && physics >= 55 && chemistry >= 50 && math + physics + chemistry >= 180) return true;
-            else return false;
+            return math >= 65 && physics >= 55 && chemistry >= 50 && math + physics + chemistry >= 180;
         }
 
         private static bool IsAllowedSecond(int math, int physics, int chemistry)
         {
-            if (math+physics >= 140 || math + chemistry >= 140 ) return true;
-            else return false;
+            return math+physics >= 140 || math + chemistry >= 140;
         }
        
     }
